@@ -29,10 +29,7 @@ This is a simple color quiz application built using HTML, CSS, and JavaScript. T
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Mo7ammedd/color-quiz-application/blob/main/LICENSE.txt) file for details.
 
-## Acknowledgments
 
-- This project was inspired by a desire to create an interactive and educational quiz application.
-- Special thanks to various online resources and tutorials that helped in the development process.
 
