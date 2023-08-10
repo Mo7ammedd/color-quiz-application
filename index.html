@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Color Guessing Game</title>
+    <!-- Google Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="display-container">
+      <div class="header flex-space">
+        <div class="title">
+          <p>Color Guessing Game</p>
+        </div>
+        <div class="timer"></div>
+      </div>
+
+      <div id="container">
+        <!-- Questions and options are displayed here-->
+      </div>
+
+      <div class="flex-space">
+        <div class="number-of-count">
+          <span class="number-of-questions"></span>
+        </div>
+        <div id="next-button">Next</div>
+      </div>
+    </div>
+
+    <div class="start-screen">
+      <button id="start-button">Start</button>
+    </div>
+
+    <div class="score-container hide">
+      <div id="user-score"></div>
+      <button id="restart">Restart</button>
+    </div>
+    <!-- Script -->
+    <script src="script.js"></script>
+  </body>
+</html>
