@@ -11,11 +11,11 @@ This is a simple color quiz application built using HTML, CSS, and JavaScript. T
 - Calculates and displays the user's score at the end of the quiz.
 - Allows users to restart the quiz.
 
-## How to Use
+## How to Engage
 
-[live demo](https://mo7ammedd.github.io/color-quiz-application/)
+Embark on this color-filled adventure by trying out our [Live Demo](https://mo7ammedd.github.io/color-quiz-application/). Immerse yourself in the world of hexadecimal colors and put your knowledge to the test!
 
-## Development Setup
+## Crafting Your Own Path
 
 1. Clone the repository as mentioned above.
 2. Make changes to the JavaScript code in the `script.js` file to modify quiz questions or behavior.
