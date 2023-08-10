@@ -13,12 +13,7 @@ This is a simple color quiz application built using HTML, CSS, and JavaScript. T
 
 ## How to Use
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/color-quiz-app.git`.
-2. Open the `index.html` file in a web browser to start the quiz.
-3. Read the question and select the correct color option within the countdown timer.
-4. Receive instant feedback on your answer.
-5. Continue through all the questions.
-6. View your final score at the end of the quiz.
+[live demo](https://mo7ammedd.github.io/color-quiz-application/)
 
 ## Development Setup
 
